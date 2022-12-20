@@ -1,3 +1,5 @@
 # Bootcamp - Orange-Tech-BackEnd
 
-<img src="https://github.com/Alexxmfs/Bootcamp---Orange-Tech-BackEnd/blob/master/orage-tech.png?raw=true" />
+<div align="center">
+<img src="https://github.com/Alexxmfs/Bootcamp---Orange-Tech-BackEnd/blob/master/orage-tech.png?raw=true" width="300" height="300" />
+</div>
